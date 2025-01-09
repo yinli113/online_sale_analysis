@@ -32,8 +32,7 @@ The analysis follows these key steps:
 4. **Exploratory Data Analysis**: Statistical analysis and data visualization to identify trends and patterns.
 
 ## Findings and Conclusions
-(Include a summary of any significant findings or conclusions drawn from the analysis.)
-
+the amount of invoice has no significant different, but increases from September and reaches peak in December
 ## Usage
 To run this notebook:
 1. Ensure all required libraries are installed.
